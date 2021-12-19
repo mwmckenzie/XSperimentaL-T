@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://drive.google.com/file/d/1R764-J3TI4kKD6VHhxhv82c_kASwmgK2/view?usp=sharing"?>
+<SummerProgram   Id="5D22A7DD-DECC-4665-BDEC-CD321E35DECC" EnumType="0" TypeEnum="0" Created="2021-11-23T19:58:43" Modified="2021-12-18">
+  <Details EnumType="1" TypeEnum="0">
+    <NamePrimary EnumType="4" TypeEnum="0">Ross Mathematics Program</NamePrimary>
+    <NameShort EnumType="4" TypeEnum="1">Ross Math Program</NameShort>
+    <AliasList EnumType="4" TypeEnum="2">
+      <alias EnumType="7" TypeEnum="3">Ross Mathematics Program</alias>
+      <alias EnumType="7" TypeEnum="3">Ross Math Program</alias>
+    </AliasList>
+    <SubjList EnumType="4" TypeEnum="3">
+      <subject EnumType="7" TypeEnum="5">Mathematics</subject>
+      <subject EnumType="7" TypeEnum="5">Math</subject>
+    </SubjList>
+    <TopicList EnumType="4" TypeEnum="4">
+      <topic EnumType="7" TypeEnum="4">Number Theory</topic>
+      <topic EnumType="7" TypeEnum="4">Polynomials</topic>
+    </TopicList>
+    <ProgTypeList EnumType="4" TypeEnum="5">
+      <progType EnumType="7" TypeEnum="6">Residential</progType>
+    </ProgTypeList>
+    <OrgType EnumType="4" TypeEnum="6"/>
+  </Details>
+  <Orgs EnumType="1" TypeEnum="4">
+    <Org Id="D5E5DE69-F471-4A11-918D-D018B6BA84C7" EnumType="0" TypeEnum="1" Created="2021-11-26T11:20:52" Modified="2021-11-26T11:20:52">
+      <Details EnumType="1" TypeEnum="0">
+        <NamePrimary EnumType="4" TypeEnum="0">Ohio Dominican University</NamePrimary>
+        <NameShort EnumType="4" TypeEnum="1">Ohio Dominican</NameShort>
+        <AliasList EnumType="4" TypeEnum="2">
+          <alias EnumType="7" TypeEnum="3">Ohio Dominican University</alias>
+          <alias EnumType="7" TypeEnum="3">Ohio Dominican</alias>
+        </AliasList>
+        <OrgType EnumType="4" TypeEnum="6">University</OrgType>
+      </Details>
+      <Links EnumType="1" TypeEnum="1">
+        <link EnumType="7" TypeEnum="0" AdditionalInfo="">http://www.ohiodominican.edu/</link>
+        <link EnumType="7" TypeEnum="0" AdditionalInfo="">www.ohiodominican.edu</link>
+      </Links>
+      <Notes EnumType="1" TypeEnum="2"/>
+      <Tags EnumType="1" TypeEnum="3"/>
+    </Org>
+  </Orgs>
+  <Sessions EnumType="1" TypeEnum="5">
+    <Session Id="F78B71A6-416C-4D10-9869-458E0FF10725" EnumType="0" TypeEnum="2" Created="2021-11-27T17:00:19" Modified="2021-11-27T17:00:19">
+      <Details EnumType="1" TypeEnum="0">
+        <NamePrimary EnumType="4" TypeEnum="0">June Session</NamePrimary>
+        <NameShort EnumType="4" TypeEnum="1">June</NameShort>
+        <AliasList EnumType="4" TypeEnum="2">
+          <alias EnumType="7" TypeEnum="3">June Session</alias>
+          <alias EnumType="7" TypeEnum="3">June</alias>
+        </AliasList>
+        <DateStart EnumType="4" TypeEnum="7">2022-05-01</DateStart>
+        <DateEnd EnumType="4" TypeEnum="8">2022-05-15</DateEnd>
+      </Details>
+      <Links EnumType="1" TypeEnum="1"/>
+      <Notes EnumType="1" TypeEnum="2"/>
+      <Tags EnumType="1" TypeEnum="3">
+        <tag EnumType="7" TypeEnum="2" AdditionalInfo="">June</tag>
+      </Tags>
+    </Session>
+  </Sessions>
+  <Applications EnumType="1" TypeEnum="6">
+    <Application Id="F3A815C9-74E2-4700-9A25-1772B06675C1" EnumType="0" TypeEnum="3" Created="2021-11-28T20:04:35" Modified="2021-11-28T20:04:35">
+      <Details EnumType="1" TypeEnum="0">
+        <NamePrimary EnumType="4" TypeEnum="0">January Application</NamePrimary>
+        <NameShort EnumType="4" TypeEnum="1">Main App</NameShort>
+        <AliasList EnumType="4" TypeEnum="2">
+          <alias EnumType="7" TypeEnum="3">January Application</alias>
+          <alias EnumType="7" TypeEnum="3">Main App</alias>
+        </AliasList>
+        <DateStart EnumType="4" TypeEnum="7">2022-01-01</DateStart>
+        <DateEnd EnumType="4" TypeEnum="8">2022-03-31</DateEnd>
+      </Details>
+      <Links EnumType="1" TypeEnum="1"/>
+      <Notes EnumType="1" TypeEnum="2"/>
+      <Tags EnumType="1" TypeEnum="3"/>
+    </Application>
+  </Applications>
+  <StudentInfo EnumType="1" TypeEnum="7">
+    <StudentInfo Id="24CEE9AB-32B1-4437-B363-737BDBC93E3F" EnumType="0" TypeEnum="4" Created="2021-12-16T18:53:38" Modified="2021-12-16T18:53:38">
+      <Details EnumType="1" TypeEnum="0">
+        <NamePrimary EnumType="4" TypeEnum="0">UNKNOWN</NamePrimary>
+        <NameShort EnumType="4" TypeEnum="1">UNKNOWN</NameShort>
+        <AliasList EnumType="4" TypeEnum="2">
+          <alias EnumType="7" TypeEnum="3">UNKNOWN</alias>
+        </AliasList>
+        <AgeMin EnumType="4" TypeEnum="9">14</AgeMin>
+        <AgeMax EnumType="4" TypeEnum="10">18</AgeMax>
+        <ClassYearMin EnumType="4" TypeEnum="11">10</ClassYearMin>
+        <ClassYearMax EnumType="4" TypeEnum="12">11</ClassYearMax>
+        <CitizenshipList EnumType="4" TypeEnum="13">
+          <citizenship EnumType="7" TypeEnum="9">United States</citizenship>
+          <citizenship EnumType="7" TypeEnum="9">Canada</citizenship>
+        </CitizenshipList>
+        <ResidenceList EnumType="4" TypeEnum="14">
+          <residence EnumType="7" TypeEnum="10">Ohio</residence>
+          <residence EnumType="7" TypeEnum="10">New York</residence>
+          <residence EnumType="7" TypeEnum="10">Vermont</residence>
+        </ResidenceList>
+      </Details>
+      <Links EnumType="1" TypeEnum="1"/>
+      <Notes EnumType="1" TypeEnum="2"/>
+      <Tags EnumType="1" TypeEnum="3"/>
+    </StudentInfo>
+  </StudentInfo>
+  <Links EnumType="1" TypeEnum="1">
+    <link EnumType="7" TypeEnum="0" AdditionalInfo="">https://rossprogram.org/</link>
+  </Links>
+  <Notes EnumType="1" TypeEnum="2">
+    <note EnumType="7" TypeEnum="1" AdditionalInfo="">Associated mostly with Ohio State University from 1964 through 2018</note>
+    <note EnumType="7" TypeEnum="1" AdditionalInfo="">In 2019 the Program moved to Ohio Dominican University</note>
+    <note EnumType="7" TypeEnum="1" AdditionalInfo="">in 2020 the program was entirely online</note>
+  </Notes>
+  <Tags EnumType="1" TypeEnum="3">
+    <tag EnumType="7" TypeEnum="2" AdditionalInfo="">Stem</tag>
+    <tag EnumType="7" TypeEnum="2" AdditionalInfo="">Competitive</tag>
+    <tag EnumType="7" TypeEnum="2" AdditionalInfo="">SingleSubject</tag>
+    <tag EnumType="7" TypeEnum="2" AdditionalInfo="">PayToPlay</tag>
+  </Tags>
+</SummerProgram>
